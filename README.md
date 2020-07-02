@@ -6,7 +6,7 @@ source code is here ![ESP32-CAM_blink.ino](ESP32-CAM_blink.ino)
 bin for chip burning, 
 
 
-https://www.youtube.com/watch?v=--tuzdXo720
+https://www.youtube.com/watch?v=--tuzdXo720  
 [![ESP32-CAM, blinking both led1 and Flash_LED](https://img.youtube.com/vi/--tuzdXo720/0.jpg)](https://www.youtube.com/watch?v=--tuzdXo720)
 
 
