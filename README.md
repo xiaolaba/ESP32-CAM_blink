@@ -9,5 +9,5 @@ ESP32-CAM, blinking both led1 and Flash_LED
 
 ref: how to embedding youtube with github page,  
 ```  
-[![ VIDEO_ID ](https://img.youtube.com/vi/ VIDEO_ID /0.jpg)](https://www.youtube.com/watch?v= VIDEO_ID )
+[![ your_text ](https://img.youtube.com/vi/ VIDEO_ID /0.jpg)](https://www.youtube.com/watch?v= VIDEO_ID )
 ```
