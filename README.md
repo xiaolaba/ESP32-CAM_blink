@@ -1,5 +1,7 @@
 # ESP32-CAM_blink
 ESP32-CAM, blinking both led1 and Flash_LED  
+5 fast blinking, 2 slow blinking, repeating  
+
 
 
 [![ESP32-CAM, blinking both led1 and Flash_LED](https://img.youtube.com/vi/--tuzdXo720/0.jpg)](https://www.youtube.com/watch?v=--tuzdXo720)
