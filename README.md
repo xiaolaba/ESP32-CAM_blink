@@ -2,7 +2,7 @@
 ESP32-CAM, blinking both led1 and Flash_LED  
 
 
-![ESP32-CAM, blinking both led1 and Flash_LED](https://img.youtube.com/vi/--tuzdXo720/0.jpg)](https://youtu.be/--tuzdXo720)
+![ESP32-CAM, blinking both led1 and Flash_LED](https://img.youtube.com/vi/youtu.be/--tuzdXo720/0.jpg)](https://youtu.be/--tuzdXo720)
 
 
 
