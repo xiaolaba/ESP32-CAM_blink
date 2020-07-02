@@ -12,4 +12,13 @@ ESP32-CAM, blinking both led1 and Flash_LED
 ref: how to embedding youtube with github page,  
 ```  
 [![ your_text ](https://img.youtube.com/vi/ VIDEO_ID /0.jpg)](https://www.youtube.com/watch?v= VIDEO_ID )
-```
+```  
+  
+  
+schematic, clone from AI-Thinker, http://wiki.ai-thinker.com/esp32-cam
+![ESP32-CAM_SCHEMATIC.jpg](ESP32-CAM_SCHEMATIC.jpg)  
+.  
+.  
+.  
+PCB component, by reversed engineering
+![ESP32-CAM_COMPONENT.JPG](ESP32-CAM_COMPONENT.JPG)
