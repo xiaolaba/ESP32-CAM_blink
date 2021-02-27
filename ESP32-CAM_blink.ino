@@ -15,6 +15,11 @@ void setup() {
 }
 
 void loop() {
+
+  LED_blinking();
+  Flash_blinking();
+
+/*  
   fastBlink();
   fastBlink();
   fastBlink();
@@ -31,5 +36,5 @@ void loop() {
   fastFlash();
   slowFlash();  
   slowFlash();  
-  
+*/  
 }

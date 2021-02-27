@@ -7,10 +7,9 @@
 #include "Arduino.h"
 #include "flash_light.h"
 
-#define x10mS  15  // 10ms, no visual blinking; 15-50ms ok, fast blinking period
+#define x10mS  100 // 10ms, no visual blinking; 15-50ms ok, fast blinking period
 #define x100mS 400 // slow blinking period
-
-
+#define x2000mS 2000 // pause
 
 
 void LED_on(){
@@ -41,9 +40,10 @@ void LED_blinking(){
   fastBlink();
   fastBlink();
   fastBlink();
-   
+  delay(x2000mS); // wait for 2 seconds 
   slowBlink();
   slowBlink();
+  delay(x2000mS); // wait for 2 seconds
 }
 
 
@@ -79,7 +79,8 @@ void Flash_blinking(){
   fastFlash();
   fastFlash();
   fastFlash();
-   
+  delay(x2000mS); // wait for 2 seconds   
   slowFlash();
   slowFlash();
+  delay(x2000mS); // wait for 2 seconds     
 }
