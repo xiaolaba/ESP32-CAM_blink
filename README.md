@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=CalkROL9-4w
 
 
 
-### 2021-FEB-27, test different hardward, NodeMCU-32S, metal can printed ESP-WROOM-32, no PSRAM. LED1 connected to IO2.  
+### 2021-FEB-27, test different hardward, NodeMCU-32S, metal can printed ESP-WROOM-32 (or a clone ??), no PSRAM. LED1 connected to IO2.  
 ![NodeMCU-32_LED1_IO2.JPG](NodeMCU-32_LED1_IO2.JPG)  
 
 schematic, [nodemcu-32s_product_specification.pdf](nodemcu-32s_product_specification.pdf)  
