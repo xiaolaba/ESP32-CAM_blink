@@ -38,3 +38,6 @@ https://www.youtube.com/watch?v=CalkROL9-4w
 ![NodeMCU-32_LED1_IO2.JPG](NodeMCU-32_LED1_IO2.JPG)  
 
 schematic, [nodemcu-32s_product_specification.pdf](nodemcu-32s_product_specification.pdf)  
+
+![nodemcu-32s_schematic.jpg](nodemcu-32s_schematic.jpg)
+
