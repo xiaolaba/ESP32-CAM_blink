@@ -29,7 +29,7 @@ PCB & component placement, by reversed engineering,
 
 extra test for camera in action, no code available, click image below to see video and result,  
 https://www.youtube.com/watch?v=CalkROL9-4w  
-![ESP32-CAM, camera streaming testing](https://img.youtube.com/vi/CalkROL9-4w/0.jpg)](https://www.youtube.com/watch?v=CalkROL9-4w)
+![ESP32-CAM, camera streaming testing (https://img.youtube.com/vi/CalkROL9-4w/0.jpg)](https://www.youtube.com/watch?v=CalkROL9-4w)  
 
 
 
