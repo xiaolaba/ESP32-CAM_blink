@@ -26,6 +26,9 @@ schematic, clone from AI-Thinker, http://wiki.ai-thinker.com/esp32-cam
 PCB & component placement, by reversed engineering,  
 ![ESP32-CAM_COMPONENT.JPG](ESP32-CAM_COMPONENT.JPG)  
 
+external RESET & BOOT MODE ENTRY  
+![ESP32-CAM_COMPONENT_RESET.JPG](ESP32-CAM_COMPONENT_RESET.JPG)  
+
 
 extra test for camera in action, no code available, click image below to see video and result,  
 https://www.youtube.com/watch?v=CalkROL9-4w  
